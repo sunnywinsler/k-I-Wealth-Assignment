@@ -2,6 +2,9 @@
 
 Responsive React + TypeScript interface for discovering fictional Loan Against Securities (LAS) opportunities. Users enter a requirement, browse matching lenders, inspect details, compare 2–3 offers, and run an eligibility check with a clear next action.
 
+- **Live Demo**: [https://k-i-wealth-assignment.vercel.app](https://k-i-wealth-assignment.vercel.app)
+- **GitHub Repository**: [https://github.com/sunnywinsler/k-I-Wealth-Assignment](https://github.com/sunnywinsler/k-I-Wealth-Assignment)
+
 This dataset is fictional and must not be treated as real financial advice or live provider terms.
 
 ## Setup
