@@ -106,6 +106,4 @@ Eligibility rules (client-side, documented for the mock):
 | Long provider/product names | `overflow-wrap` on card and comparison titles |
 | Loading / skeleton | Listing skeleton cards; modal/compare spinners |
 
-## Screenshots
 
-Optional. Capture from `npm run dev` if submitting `screenshots/`.
